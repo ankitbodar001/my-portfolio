@@ -22,7 +22,3 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
-export default defineConfig({
-  base: '/portfolio-site/', // <-- replace with your repo name
-  plugins: [react()],
-})

@@ -1,7 +1,7 @@
 {
   "name": "vite_react_shadcn_ts",
   "private": true,
-  "homepage": "https://ankitbodar001.github.io/my-portfolio",
+  "homepage": "https://ankitbodar001.github.io/my-portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -52,6 +52,7 @@
     "input-otp": "^1.2.4",
     "lucide-react": "^0.462.0",
     "next-themes": "^0.3.0",
+    "node": "^22.15.0",
     "react": "^18.3.1",
     "react-day-picker": "^8.10.1",
     "react-dom": "^18.3.1",
@@ -86,4 +87,3 @@
     "vite": "^5.4.1"
   }
 }
-
